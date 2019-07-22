@@ -1,0 +1,2 @@
+# UAS-StrukturData
+mahasiswa esgul
